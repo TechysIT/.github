@@ -1,3 +1,4 @@
+![Logo](http://mytechys.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9043484f.png&w=128&q=75)
 # Techy's: Keep Your World Moving
 
 **Welcome to Techy's GitHub organization!**
