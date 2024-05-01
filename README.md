@@ -9,7 +9,7 @@ We are a passionate team of developers specializing in crafting modern and robus
 
 62 High Street, Long Eaton, Nottingham, NG10 1LP, England
 
-**Technologies We Master:**
+## 🛠 Technologies We Master:
 
 * **Frontend Development:** Next.js, React.js, Tailwind CSS
 * **Backend Development:** Express.js, NestJS, Django
