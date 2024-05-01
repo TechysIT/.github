@@ -28,12 +28,13 @@ We are a passionate team of developers specializing in crafting modern and robus
 * **NelionCare:** A user-friendly website (details coming soon!)
 * **Shardlow Speed Shop Ltd:** A professional website (details coming soon!)
 
+
+
+
 **Happy coding!**
 
 The Techy's Team
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 [![](https://visitcount.itsvg.in/api?id=TechysIT&icon=0&color=7)](https://visitcount.itsvg.in)
