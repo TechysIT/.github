@@ -29,14 +29,6 @@ We are a passionate team of developers specializing in crafting modern and robus
 * **NelionCare:** A user-friendly website (details coming soon!)
 * **Shardlow Speed Shop Ltd:** A professional website (details coming soon!)
 
-**Contributing to Our Projects:**
-
-We welcome contributions from the open-source community! If you're interested in getting involved, please refer to the individual project's contribution guidelines.
-
-**Stay Updated:**
-
-Follow us on social media for the latest news and project updates (links coming soon!).
-
 **Happy coding!**
 
 The Techy's Team
