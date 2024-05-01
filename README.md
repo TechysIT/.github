@@ -1,4 +1,4 @@
-# Techy's: Building Innovative Tech Solutions
+# Techy's: Keep Your World Moving
 
 **Welcome to Techy's GitHub organization!**
 
