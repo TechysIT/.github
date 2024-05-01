@@ -29,7 +29,7 @@ We are a passionate team of developers specializing in crafting modern and robus
 
 We're always excited about new challenges and collaborations. Feel free to reach out to us:
 
-* Email: [Insert your company email address here]
+* Email: info@mytechys.co.uk
 
 **Contributing to Our Projects:**
 
