@@ -1,4 +1,4 @@
-![Logo](http://mytechys.co.uk/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo.9043484f.png&w=128&q=75)
+![Logo](https://www.mytechys.co.uk/_next/image?url=%252Fimages%252Flogo.png&w=128&q=75)
 [![](https://visitcount.itsvg.in/api?id=TechysIT&label=Profile%20Views&color=7&icon=5&pretty=false)](https://visitcount.itsvg.in)
 # Techy's: Keep Your World Moving
 
